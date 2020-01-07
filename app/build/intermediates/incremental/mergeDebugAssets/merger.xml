@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\GitProject\major_project_front_android_rooms_manager-master\app\src\main\assets"/><source path="D:\GitProject\major_project_front_android_rooms_manager-master\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\GitProject\major_project_front_android_rooms_manager-master\app\src\debug\assets"/></dataSet></merger>
